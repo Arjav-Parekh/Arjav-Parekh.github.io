@@ -34,4 +34,4 @@ The bar chart visualizes the distribution of licenses based on whether individua
 ## Links to Resources
 
 - [The Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/licenses_fall2022.csv)
-- [The Analysis](./viz.ipynb)
+- [The Analysis](https://github.com/Arjav-Parekh/Arjav-Parekh.github.io/blob/main/viz.ipynb)
